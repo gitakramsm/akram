@@ -14,7 +14,7 @@ import eve2022.SendEmail.SMTPAuthenticator;
 
 public class SendEmail {
 	final String senderEmail = "myselfmohamedali@gmail.com"; //change email address
-	final String senderPassword = "arrahmanalmannan99"; //change password
+	final String senderPassword = "arrahma*********9"; //change password
 	final String emailSMTPserver = "smtp.gmail.com";
 	final String emailServerPort = "465";
 	String receiverEmail = null;
